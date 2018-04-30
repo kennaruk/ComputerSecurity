@@ -41,3 +41,10 @@ acf06cdd9c744f969958e1f085554c8b
 1. ถ้าใช้แบบ brute force จะได้ 100 คะแนน
 2. ถ้าใช้วิธีที่เหาผลลัพธ์ที่ได้ค่าเฉลี่ย compare xxxx น้อยกว่าวิธี brute force จะได้คะแนนเพิ่มเป็น bonus 10 คะแนน
 ```
+
+Credits
+---
+* 4 Letters Dictionary
+https://www.litscape.com/words/length/4_letters/4_letter_words.html
+* MD5 Hash Function (Java)
+http://www.asjava.com/core-java/java-md5-example/

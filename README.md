@@ -8,5 +8,5 @@ What's things inside?
 -----
 All are java program
 
-* AES Word Generator (W0 - W44)
-* MD5 Attack (Dictonary / Brute Force)
+* [AES Word Generator (W0 - W44)](https://github.com/kennaruk/ComputerSecurity/tree/master/AES%20Word%20Generator)
+* [MD5 Attack (Dictonary / Brute Force)](https://github.com/kennaruk/ComputerSecurity/tree/master/MD5%20Attack)
